@@ -1,4 +1,4 @@
-# intellij-visual-studio-code
+# intellij-visual-studio-code (For Windows)
 My (IntelliJ) key bindings for MS Visual Studio Code. I haven't used any of JetBrains other IDE:s but I'm guessing the bindings are the same for PhpStorm, PyCharm, RubyMine etc.
 
 # Usage
